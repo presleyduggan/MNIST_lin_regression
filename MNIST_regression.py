@@ -1,4 +1,3 @@
-#Homework assignment 3 by Presley Duggan
 #Calculate linear regression of MNIST data
 #Uses MNIST_15_15.csv and MNIST_LABEL.csv
 import pandas as pd
